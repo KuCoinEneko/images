@@ -142,7 +142,8 @@
                 "lldb.executable": "/usr/bin/lldb"
             },
             // Add the IDs of extensions you want installed when the container is created.
-            "extensions": [
+            "extensions": [@KuCoinEneko
+        
                 "GitHub.vscode-pull-request-github"
             ]
         }
